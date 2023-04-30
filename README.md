@@ -1,4 +1,5 @@
-<h1 align="left"> Hi 👋</h1>
+Code
+<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Reem </h1> </div>
 <h3 align="left">I'm Reem Almonea</h3>
 
 - 🔭 I’m currently working on **Project management system**
