@@ -1,10 +1,13 @@
-<h1 align="left">Hi👋 ,I'm Reem</h1>
-<h3 align="left">developer</h3>
+<h1 align="left"> Hi 👋</h1>
+<h3 align="left">I'm Reem Almonea</h3>
 
- -🔭I’m interested in Development App & web
 - 🔭 I’m currently working on **Project management system**
+
 - 🌱 I’m currently learning **PHP,Python,Kotlin**
-- 📫 How to reach me **Reem.almonea12@gmail.com**
+
+- 👀 I’m interested in Development **App & web**
+
+- 📫 How to reach me Email: **Reem.almonea12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
