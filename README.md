@@ -1,4 +1,4 @@
-Code
+
 <div align="left"><h1> Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> </h1> </div>
 <h3 align="left">I'm Reem Almonea</h3>
 
